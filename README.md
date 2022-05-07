@@ -1,1 +1,1 @@
-# FuzzyLogicFIS
+# FuzzyLogicFISmedical FIS models built in R \ndataset.r is for evaluation
